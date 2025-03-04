@@ -3,8 +3,8 @@ package main
 
 import (
 	"fmt"
-	"todoapp/tasks"
-	"todoapp/ui"
+	"github.com/SurovIvan/todoapp/tasks"
+	"github.com/SurovIvan/todoapp/ui"
 )
 
 func main() {

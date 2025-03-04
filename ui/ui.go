@@ -3,8 +3,8 @@ package ui
 
 import (
 	"fmt"
+	"github.com/SurovIvan/todoapp/tasks"
 	"github.com/fatih/color"
-	"todoapp/tasks"
 )
 
 // ShowTasks отображает список задач

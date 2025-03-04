@@ -2,7 +2,7 @@
 package tasks
 
 import (
-	"todoapp/storage"
+	"github.com/SurovIvan/todoapp/storage"
 )
 
 // TaskManager управляет задачами
